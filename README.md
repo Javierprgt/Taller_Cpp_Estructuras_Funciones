@@ -1,6 +1,7 @@
 # Taller C++ – Estructuras y Funciones
 
-Estudiante: TU NOMBRE  
+Estudiante: Javier Pinargote
+Ing. Yadira Franco 
 Asignatura: Programación  
 
 Este repositorio contiene el desarrollo de 41 ejercicios en C++ que refuerzan:
